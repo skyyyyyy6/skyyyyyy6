@@ -41,7 +41,7 @@
 </p>
 
 ## Currently Focusing On
-Building a career in backend engineering while shipping a Mac product of my own, focused on reliability and things that actually get used.
+Building a career in backend engineering while shipping a product of my own, focused on reliability and things that actually get used.
 
 ## Contribution Graph
 
